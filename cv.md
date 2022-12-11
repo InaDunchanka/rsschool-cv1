@@ -6,3 +6,14 @@
  4. Skills:    
  -Studied Wordpress    
 -SMM
+5. Code example
+  ```
+  function multiply (a, b) {
+  return a * b
+  }
+  ```
+  6. No work expirience
+  7. Education:    
+-University: VSTU for 5 courses    
+-Course for Wordpress
+  9. English A2(I have some speaking practice)
