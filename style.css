@@ -4,3 +4,24 @@ body{
 * {
     box-sizing: border-box;
   }
+
+header{
+   border: 1px solid red;
+}
+main{
+    border: 1px solid green;
+}
+footer{
+    border: 1px solid black;
+}
+body{
+    min-height: 100vh;
+}
+body{
+    margin: 0; padding: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
