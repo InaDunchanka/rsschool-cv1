@@ -10,7 +10,8 @@ body{
     min-height: 100vh;
 }
 body{
-    margin: 0; padding: 0;
+    margin: 0;
+    padding: 0;
 }
 body {
   display: flex;
@@ -35,9 +36,9 @@ body {
   .nav-link {
     padding : 0 20px;
     line-height: 50px;
-    font-size:medium;
+    font-size:large;
     font-style: italic;
-    color: #2E4A62;
+    color:#008000;
     text-decoration:none;
   }
   .nav-link:hover{
@@ -49,10 +50,16 @@ body {
     text-decoration: none;
     transition: color 0.5s;
   }
-  .section-item a:hover {
+  .section-item :hover {
     color:#2F4F4F;
   }
-
+  .section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
   .main-container {
     display: flex;
     flex-wrap: wrap;
