@@ -92,4 +92,17 @@ img.imd{
 }
 
 
+.icon-style:hover {
 
+    background-color:green;
+
+    padding:5px;
+}
+ .icon-style{
+
+     height:50px;
+
+     margin-left:20px;
+
+     margin-top:7px;
+       }
