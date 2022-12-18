@@ -5,15 +5,7 @@ body{
     box-sizing: border-box;
   }
 
-header{
-   border: 1px solid red;
-}
-main{
-    border: 1px solid green;
-}
-footer{
-    border: 1px solid black;
-}
+
 body{
     min-height: 100vh;
 }
@@ -86,7 +78,8 @@ body {
     line-height: 1.5;
     color: black;
   }
-img.img{
+img.imd{
+    float: right;
     padding-right: 20px;
     padding-top: 20px;
 }
